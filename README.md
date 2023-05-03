@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kameronjan&show_icons=true&locale=en&layout=compact" alt=“kameronjan” /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kameronjan&theme=vue&hide_border=true" alt="kameronjan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kamronjan&exclude_days=Wed alt="kameronjan" /></p>
