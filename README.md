@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Kameron 😁</h1>
 <h3 align="center">A passionate programming student from Montreal</h3>
 
-- 🌱 I am currently **learning to become a full-stack web developper.**
+- 🌱 <strong>I am currently learning to become a full-stack web developper.</strong>
 
-- 🤖 𝐒𝐭𝐫𝐨𝐧𝐠 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 **𝐬𝐞𝐫𝐯𝐢𝐜𝐞-𝐨𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐬𝐤𝐢𝐥𝐥𝐬 𝐰𝐢𝐭𝐡 𝟏𝟎+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.**
+- 🤖 <strong>Strong customer service-oriented skills with 10+ years of experience.</strong>
 
-- 📈 𝐒𝐞𝐥𝐟-𝐭𝐡𝐨𝐮𝐠𝐡𝐭 **𝐬𝐭𝐨𝐜𝐤/𝐜𝐫𝐲𝐩𝐭𝐨 𝐢𝐧𝐯𝐞𝐬𝐭𝐨𝐫 𝐰𝐢𝐭𝐡 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐦𝐚𝐫𝐤𝐞𝐭 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.**
+- 📈 <strong>Self-thought stock/crypto investor with 5+ years of financial market experience.</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
