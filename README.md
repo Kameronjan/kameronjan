@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kameron 😁</h1>
 <h3 align="center">A passionate programming student from Montreal</h3>
 
-- 🌱 I am currently **learning to become a full-stack web developper**
+- 🌱 I am currently **learning to become a full-stack web developper.**
 
 - 🤖 𝐒𝐭𝐫𝐨𝐧𝐠 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 **𝐬𝐞𝐫𝐯𝐢𝐜𝐞-𝐨𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐬𝐤𝐢𝐥𝐥𝐬 𝐰𝐢𝐭𝐡 𝟏𝟎+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.**
 
