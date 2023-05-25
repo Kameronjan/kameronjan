@@ -5,7 +5,7 @@
 
 - 🤖 <strong>Strong customer service-oriented skills with 10+ years of experience.</strong>
 
-- 📈 <strong>Self-thought stock/crypto investor with 5+ years of financial market experience.</strong>
+- 📈 <strong>Self-taught stock/crypto investor with 5+ years of financial market experience.</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
