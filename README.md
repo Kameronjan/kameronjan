@@ -3,7 +3,7 @@
 
 - 🌱 <strong>I am currently learning to become a full-stack web developper.</strong>
 
-- 🤖 <strong>Strong customer service-oriented skills with 10+ years of experience.</strong>
+- 🤖 <strong>Strong customer service-oriented skills with 8+ years of experience.</strong>
 
 - 📈 <strong>Self-taught stock/crypto investor with 5+ years of financial market experience.</strong>
 
