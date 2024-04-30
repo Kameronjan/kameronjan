@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Kameron 😁</h1>
+
 - 👨‍💻 <strong>Certified full-stack web developer from Le Wagon.</strong>
 
 - 🤖 <strong>Strong customer service-oriented skills with 8+ years of experience.</strong>
