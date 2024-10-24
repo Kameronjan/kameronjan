@@ -2,7 +2,7 @@
 
 - 👨‍💻 <strong>Certified full-stack web developer from Le Wagon.</strong>
 
-- 🤖 <strong>Strong customer service-oriented skills with 8+ years of experience.</strong>
+- 🤖 <strong>Strong customer service-oriented skills with almost a decade of experience.</strong>
 
 - 📈 <strong>Self-taught stock/crypto investor with 6+ years of financial market experience.</strong>
 
